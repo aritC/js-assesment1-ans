@@ -8,5 +8,7 @@
   "functionsAsClass",
   "autotypecasting",
   "eventloop",
-  "overloading"
+  "overloading",
+  "currying",
+  "functionsAsClass"
 ]
